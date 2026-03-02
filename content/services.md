@@ -10,7 +10,7 @@ description: "Our core services and integrations."
   <!-- Atlassian Bitbucket -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/bitbucket" class="w-6 h-6" alt="Bitbucket" />
+      <img src="/images/icons/bitbucket.svg" class="w-6 h-6" alt="Bitbucket" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Atlassian Bitbucket</div>
@@ -20,7 +20,7 @@ description: "Our core services and integrations."
   <!-- Atlassian Confluence -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/confluence" class="w-6 h-6" alt="Confluence" />
+      <img src="/images/icons/confluence.svg" class="w-6 h-6" alt="Confluence" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Atlassian Confluence</div>
@@ -30,7 +30,7 @@ description: "Our core services and integrations."
   <!-- Atlassian Jira -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/jira" class="w-6 h-6" alt="Jira" />
+      <img src="/images/icons/jira.svg" class="w-6 h-6" alt="Jira" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Atlassian Jira</div>
@@ -40,7 +40,7 @@ description: "Our core services and integrations."
   <!-- Elastic Stack -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/elastic" class="w-6 h-6" alt="Elastic" />
+      <img src="/images/icons/elastic.svg" class="w-6 h-6" alt="Elastic" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Elastic Stack</div>
@@ -50,7 +50,7 @@ description: "Our core services and integrations."
   <!-- Fortify SSC -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/opentext" class="w-6 h-6" alt="OpenText Fortify" />
+      <img src="/images/icons/opentext.svg" class="w-6 h-6" alt="OpenText Fortify" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Fortify SSC</div>
@@ -60,7 +60,7 @@ description: "Our core services and integrations."
   <!-- GitLab -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/gitlab" class="w-6 h-6" alt="GitLab" />
+      <img src="/images/icons/gitlab.svg" class="w-6 h-6" alt="GitLab" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">GitLab</div>
@@ -70,7 +70,7 @@ description: "Our core services and integrations."
   <!-- Grafana -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/grafana" class="w-6 h-6" alt="Grafana" />
+      <img src="/images/icons/grafana.svg" class="w-6 h-6" alt="Grafana" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Grafana</div>
@@ -80,7 +80,7 @@ description: "Our core services and integrations."
   <!-- HashiCorp Vault -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/vault" class="w-6 h-6" alt="Vault" />
+      <img src="/images/icons/vault.svg" class="w-6 h-6" alt="Vault" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">HashiCorp Vault</div>
@@ -90,7 +90,7 @@ description: "Our core services and integrations."
   <!-- Keycloak -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/keycloak" class="w-6 h-6" alt="Keycloak" />
+      <img src="/images/icons/keycloak.svg" class="w-6 h-6" alt="Keycloak" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Keycloak</div>
@@ -110,7 +110,7 @@ description: "Our core services and integrations."
   <!-- Mattermost -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/mattermost" class="w-6 h-6" alt="Mattermost" />
+      <img src="/images/icons/mattermost.svg" class="w-6 h-6" alt="Mattermost" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Mattermost</div>
@@ -120,7 +120,7 @@ description: "Our core services and integrations."
   <!-- Minio -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/minio" class="w-6 h-6" alt="Minio" />
+      <img src="/images/icons/minio.svg" class="w-6 h-6" alt="Minio" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Minio</div>
@@ -130,7 +130,7 @@ description: "Our core services and integrations."
   <!-- Nexus -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/sonatype" class="w-6 h-6" alt="Nexus Repository" />
+      <img src="/images/icons/sonatype.svg" class="w-6 h-6" alt="Nexus Repository" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Nexus</div>
@@ -140,7 +140,7 @@ description: "Our core services and integrations."
   <!-- Nexus IQ Server -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/sonatype" class="w-6 h-6" alt="Nexus IQ Server" />
+      <img src="/images/icons/sonatype.svg" class="w-6 h-6" alt="Nexus IQ Server" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Nexus IQ Server</div>
@@ -150,7 +150,7 @@ description: "Our core services and integrations."
   <!-- Rancher Manager -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/rancher" class="w-6 h-6" alt="Rancher" />
+      <img src="/images/icons/rancher.svg" class="w-6 h-6" alt="Rancher" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Rancher Manager</div>
@@ -160,7 +160,7 @@ description: "Our core services and integrations."
   <!-- SonarQube -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/sonarsource" class="w-6 h-6" alt="SonarQube" onerror="this.src='https://cdn.simpleicons.org/sonarqube';" />
+      <svg class="w-5 h-5 text-zinc-800 dark:text-zinc-200" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 0c6.627 0 12 5.373 12 12s-5.373 12-12 12S0 18.627 0 12 5.373 0 12 0zm0 2.4c-5.3 0-9.6 4.3-9.6 9.6s4.3 9.6 9.6 9.6 9.6-4.3 9.6-9.6-4.3-9.6-9.6-9.6z"/></svg>
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">SonarQube</div>
@@ -170,7 +170,7 @@ description: "Our core services and integrations."
   <!-- Twistlock -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/paloaltonetworks" class="w-6 h-6" alt="Prisma Cloud / Twistlock" />
+      <img src="/images/icons/paloaltonetworks.svg" class="w-6 h-6" alt="Prisma Cloud / Twistlock" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Twistlock</div>
@@ -180,7 +180,7 @@ description: "Our core services and integrations."
   <!-- Uptime Kuma -->
   <a href="#" class="flex items-center p-4 bg-white dark:bg-zinc-800 rounded-lg shadow hover:shadow-md transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full overflow-hidden">
     <div class="flex-shrink-0 w-12 h-12 mr-4 bg-zinc-50 dark:bg-zinc-900 rounded-full flex items-center justify-center border border-zinc-100 dark:border-zinc-700">
-      <img src="https://cdn.simpleicons.org/uptimekuma" class="w-6 h-6" alt="Uptime Kuma" />
+      <img src="/images/icons/uptimekuma.svg" class="w-6 h-6" alt="Uptime Kuma" />
     </div>
     <div class="min-w-0 flex-1">
       <div class="text-lg font-semibold text-zinc-900 dark:text-white truncate">Uptime Kuma</div>
