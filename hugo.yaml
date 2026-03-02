@@ -129,6 +129,10 @@ menu:
       name: Services
       url: /services/
       weight: 10
+    - identifier: issues
+      name: Issues
+      url: /issues/
+      weight: 15
     - identifier: about
       name: About
       url: /about/
