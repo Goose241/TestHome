@@ -17,7 +17,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Atlassian Bitbucket</div>
     </div>
   </a>
-
   <!-- Atlassian Confluence -->
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -27,7 +26,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Atlassian Confluence</div>
     </div>
   </a>
-
   <!-- Atlassian Jira -->
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -37,7 +35,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Atlassian Jira</div>
     </div>
   </a>
-
   <!-- Elastic Stack -->
   <a href="https://www.elastic.co/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -47,7 +44,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Elastic Stack</div>
     </div>
   </a>
-
   <!-- Fortify SSC -->
   <a href="https://www.microfocus.com/en-us/cyberres/application-security/fortify" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -57,7 +53,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Fortify SSC</div>
     </div>
   </a>
-
   <!-- GitLab -->
   <a href="https://about.gitlab.com/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -67,7 +62,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">GitLab</div>
     </div>
   </a>
-
   <!-- Grafana -->
   <a href="https://grafana.com/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -77,7 +71,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Grafana</div>
     </div>
   </a>
-
   <!-- HashiCorp Vault -->
   <a href="https://www.vaultproject.io/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -87,7 +80,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">HashiCorp Vault</div>
     </div>
   </a>
-
   <!-- Keycloak -->
   <a href="https://www.keycloak.org/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -97,7 +89,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Keycloak</div>
     </div>
   </a>
-
   <!-- Kroki -->
   <a href="https://kroki.io/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -107,7 +98,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Kroki</div>
     </div>
   </a>
-
   <!-- Mattermost -->
   <a href="https://mattermost.com/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -117,7 +107,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Mattermost</div>
     </div>
   </a>
-
   <!-- Minio -->
   <a href="https://min.io/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -127,7 +116,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Minio</div>
     </div>
   </a>
-
   <!-- Nexus Repository -->
   <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -137,7 +125,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Nexus Repository</div>
     </div>
   </a>
-
   <!-- Nexus IQ Server -->
   <a href="https://www.sonatype.com/products/nexus-lifecycle" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -147,7 +134,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Nexus IQ Server</div>
     </div>
   </a>
-
   <!-- Rancher Manager -->
   <a href="https://rancher.com/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -157,7 +143,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Rancher Manager</div>
     </div>
   </a>
-
   <!-- SonarQube -->
   <a href="https://www.sonarqube.org/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -167,7 +152,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">SonarQube</div>
     </div>
   </a>
-
   <!-- Twistlock -->
   <a href="https://www.paloaltonetworks.com/prisma/cloud" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
@@ -177,7 +161,6 @@ layout: "wide"
       <div class="text-2xl font-bold text-zinc-900 dark:text-white truncate">Twistlock</div>
     </div>
   </a>
-
   <!-- Uptime Kuma -->
   <a href="https://uptime.kuma.pet/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
     <div class="flex-shrink-0 w-20 h-20 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
