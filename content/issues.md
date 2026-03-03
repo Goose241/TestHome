@@ -3,6 +3,7 @@ title: "Issues"
 date: 2023-10-27T10:00:00+00:00
 draft: false
 description: "Service tracking, GitLab projects, and incident reporting."
+type: "page"
 layout: "wide"
 ---
 

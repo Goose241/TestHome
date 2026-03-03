@@ -3,6 +3,7 @@ title: "Services"
 date: 2023-10-27T10:00:00+00:00
 draft: false
 description: "Our core services and integrations."
+type: "page"
 layout: "wide"
 ---
 
