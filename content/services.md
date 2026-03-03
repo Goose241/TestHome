@@ -5,185 +5,185 @@ draft: false
 description: "Our core services and integrations."
 ---
 
-<div class="grid grid-cols-1 xl:grid-cols-2 gap-8 w-full max-w-full">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-full">
 
   <!-- Atlassian Bitbucket -->
-  <a href="https://bitbucket.org/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/bitbucket.svg" class="w-14 h-14" alt="Atlassian Bitbucket" />
+  <a href="https://bitbucket.org/" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/bitbucket.svg" class="w-10 h-10" alt="Atlassian Bitbucket" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Atlassian Bitbucket</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Atlassian Bitbucket</div>
     </div>
   </a>
 
   <!-- Atlassian Confluence -->
-  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/confluence.svg" class="w-14 h-14" alt="Atlassian Confluence" />
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/confluence.svg" class="w-10 h-10" alt="Atlassian Confluence" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Atlassian Confluence</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Atlassian Confluence</div>
     </div>
   </a>
 
   <!-- Atlassian Jira -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/jira.svg" class="w-14 h-14" alt="Atlassian Jira" />
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/jira.svg" class="w-10 h-10" alt="Atlassian Jira" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Atlassian Jira</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Atlassian Jira</div>
     </div>
   </a>
 
   <!-- Elastic Stack -->
-  <a href="https://www.elastic.co/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/elastic.svg" class="w-14 h-14" alt="Elastic Stack" />
+  <a href="https://www.elastic.co/" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/elastic.svg" class="w-10 h-10" alt="Elastic Stack" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Elastic Stack</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Elastic Stack</div>
     </div>
   </a>
 
   <!-- Fortify SSC -->
-  <a href="https://www.microfocus.com/en-us/cyberres/application-security/fortify" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/opentext.svg" class="w-14 h-14" alt="Fortify SSC" />
+  <a href="https://www.microfocus.com/en-us/cyberres/application-security/fortify" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/opentext.svg" class="w-10 h-10" alt="Fortify SSC" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Fortify SSC</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Fortify SSC</div>
     </div>
   </a>
 
   <!-- GitLab -->
-  <a href="https://about.gitlab.com/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/gitlab.svg" class="w-14 h-14" alt="GitLab" />
+  <a href="https://about.gitlab.com/" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/gitlab.svg" class="w-10 h-10" alt="GitLab" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">GitLab</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">GitLab</div>
     </div>
   </a>
 
   <!-- Grafana -->
-  <a href="https://grafana.com/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/grafana.svg" class="w-14 h-14" alt="Grafana" />
+  <a href="https://grafana.com/" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/grafana.svg" class="w-10 h-10" alt="Grafana" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Grafana</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Grafana</div>
     </div>
   </a>
 
   <!-- HashiCorp Vault -->
-  <a href="https://www.vaultproject.io/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/vault.svg" class="w-14 h-14" alt="HashiCorp Vault" />
+  <a href="https://www.vaultproject.io/" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/vault.svg" class="w-10 h-10" alt="HashiCorp Vault" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">HashiCorp Vault</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">HashiCorp Vault</div>
     </div>
   </a>
 
   <!-- Keycloak -->
-  <a href="https://www.keycloak.org/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/keycloak.svg" class="w-14 h-14" alt="Keycloak" />
+  <a href="https://www.keycloak.org/" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/keycloak.svg" class="w-10 h-10" alt="Keycloak" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Keycloak</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Keycloak</div>
     </div>
   </a>
 
   <!-- Kroki -->
-  <a href="https://kroki.io/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/kroki.svg" class="w-14 h-14" alt="Kroki" />
+  <a href="https://kroki.io/" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/kroki.svg" class="w-10 h-10" alt="Kroki" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Kroki</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Kroki</div>
     </div>
   </a>
 
   <!-- Mattermost -->
-  <a href="https://mattermost.com/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/mattermost.svg" class="w-14 h-14" alt="Mattermost" />
+  <a href="https://mattermost.com/" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/mattermost.svg" class="w-10 h-10" alt="Mattermost" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Mattermost</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Mattermost</div>
     </div>
   </a>
 
   <!-- Minio -->
-  <a href="https://min.io/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/minio.svg" class="w-14 h-14" alt="Minio" />
+  <a href="https://min.io/" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/minio.svg" class="w-10 h-10" alt="Minio" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Minio</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Minio</div>
     </div>
   </a>
 
   <!-- Nexus Repository -->
-  <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/sonatype.svg" class="w-14 h-14" alt="Nexus Repository" />
+  <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/sonatype.svg" class="w-10 h-10" alt="Nexus Repository" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Nexus Repository</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Nexus Repository</div>
     </div>
   </a>
 
   <!-- Nexus IQ Server -->
-  <a href="https://www.sonatype.com/products/nexus-lifecycle" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/sonatype.svg" class="w-14 h-14" alt="Nexus IQ Server" />
+  <a href="https://www.sonatype.com/products/nexus-lifecycle" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/sonatype.svg" class="w-10 h-10" alt="Nexus IQ Server" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Nexus IQ Server</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Nexus IQ Server</div>
     </div>
   </a>
 
   <!-- Rancher Manager -->
-  <a href="https://rancher.com/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/rancher.svg" class="w-14 h-14" alt="Rancher Manager" />
+  <a href="https://rancher.com/" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/rancher.svg" class="w-10 h-10" alt="Rancher Manager" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Rancher Manager</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Rancher Manager</div>
     </div>
   </a>
 
   <!-- SonarQube -->
-  <a href="https://www.sonarqube.org/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/sonarqube.svg" class="w-14 h-14" alt="SonarQube" />
+  <a href="https://www.sonarqube.org/" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/sonarqube.svg" class="w-10 h-10" alt="SonarQube" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">SonarQube</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">SonarQube</div>
     </div>
   </a>
 
   <!-- Twistlock -->
-  <a href="https://www.paloaltonetworks.com/prisma/cloud" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/paloaltonetworks.svg" class="w-14 h-14" alt="Twistlock" />
+  <a href="https://www.paloaltonetworks.com/prisma/cloud" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/paloaltonetworks.svg" class="w-10 h-10" alt="Twistlock" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Twistlock</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Twistlock</div>
     </div>
   </a>
 
   <!-- Uptime Kuma -->
-  <a href="https://uptime.kuma.pet/" target="_blank" rel="noopener" class="flex items-center p-6 bg-white dark:bg-zinc-800 rounded-xl shadow-md hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
-    <div class="flex-shrink-0 w-24 h-24 mr-6 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
-      <img src="/images/icons/uptimekuma.svg" class="w-14 h-14" alt="Uptime Kuma" />
+  <a href="https://uptime.kuma.pet/" target="_blank" rel="noopener" class="flex items-center p-5 bg-white dark:bg-zinc-800 rounded-xl shadow hover:shadow-lg transition duration-200 border border-zinc-200 dark:border-zinc-700 w-full hover:-translate-y-1">
+    <div class="flex-shrink-0 w-16 h-16 mr-4 bg-white rounded-full flex items-center justify-center border border-zinc-200 dark:border-zinc-700 shadow-sm">
+      <img src="/images/icons/uptimekuma.svg" class="w-10 h-10" alt="Uptime Kuma" />
     </div>
-    <div class="flex-1">
-      <div class="text-2xl font-bold text-zinc-900 dark:text-white break-words">Uptime Kuma</div>
+    <div class="flex-1 min-w-0">
+      <div class="text-xl font-bold text-zinc-900 dark:text-white truncate">Uptime Kuma</div>
     </div>
   </a>
 </div>
